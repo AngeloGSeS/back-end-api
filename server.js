@@ -22,8 +22,8 @@ app.get("/", (req, res) => {
   
   // Responde com um JSON contendo uma mensagem
   res.json({
-		descricao: "API para _____",    // Substitua pelo conteúdo da sua API
-    autor: "Seu_nome_completo",     // Substitua pelo seu nome
+		descricao: "API para Completar tarefa",    // Substitua pelo conteúdo da sua API
+    autor: "Ângelo Gabriel Souza e Silva",     // Substitua pelo seu nome
   });
 });
 
